@@ -7,4 +7,4 @@ This is a popover mock the iOS iMessage Skin Tone Selection Menu (Popover)
 2. Vibration feedbacks during scroll.
 3. The arrow style could be customised.
 
-images/demo-12.9.mov
+https://user-images.githubusercontent.com/37661537/145361547-30d815bf-6108-4b94-b4db-dc10113734bc.mov
